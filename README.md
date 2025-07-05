@@ -4,6 +4,9 @@
 
 This project implements a single-stage RC Phase Shift Oscillator using a BJT (Bipolar Junction Transistor) to generate a stable sinusoidal waveform at approximately 100 kHz. The design was simulated using LTspice and then built and tested on a breadboard.
 
+## For Detailed Report, Visit
+https://gamma.app/docs/Analog-Circuits-Lab-Design-Projects-Group-5-h3c633m2n0gn635?mode=doc
+
 ## Introduction
 
 An RC phase shift oscillator is a type of electronic oscillator that generates a sinusoidal output waveform. It utilizes a feedback network consisting of resistors and capacitors to produce the necessary phase shift and gain for oscillation. This project focuses on a common emitter BJT configuration for amplification, combined with a three-stage RC ladder network to provide a 180-degree phase shift, meeting the Barkhausen criterion for sustained oscillations.
