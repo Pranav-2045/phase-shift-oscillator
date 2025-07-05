@@ -23,6 +23,7 @@ The BJT amplifier provides the necessary gain to compensate for the attenuation 
 ## Components Used
 
 BC547B ,100pf (3 units),0.01uf,1nf,0.1uf,6.8k ohm(3 units),10k ohm,100k ohm(2 units),2.2k ohm,1k ohm(2 units)
+
 *Note: Specific resistor and capacitor values will depend on your design to achieve 100 kHz. Please refer to the LTspice simulation file for exact values.*
 
 ## Simulation (LTspice)
